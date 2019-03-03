@@ -1,0 +1,62 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "psychology facts",
+      "intents": [
+         {
+            "name": "AMAZON.CancelIntent",
+            "samples": [
+              "cancel that",
+              "enough",
+              "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [ 
+            "Help",
+            "Help me out",
+            "Pardon",
+            "How to"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "Stop",
+            "Please Stop",
+            "Oh Stop",
+            "Stop It",
+            "Let it be"
+          ]
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "a fact",
+            "a psychology fact",
+            "tell me a fact",
+            "tell me a psychology fact",
+            "give me a fact",
+            "give me a psychology fact",
+            "tell me trivia",
+            "tell me a psychology trivia",
+            "give me trivia",
+            "give me a psychology trivia",
+            "give me some information",
+            "give me some psychology information",
+            "tell me something",
+            "give me something",
+            "surprise me with a fact",
+            "interesting facts about people",
+            "tell me something i do not know",
+            "tell me something new",
+            "daily psychology",
+            "psychology for today"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}
