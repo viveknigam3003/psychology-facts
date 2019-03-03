@@ -80,7 +80,7 @@ const ErrorHandler = {
 
 const SKILL_NAME = 'Meme Facts';
 const GET_FACT_MESSAGE = 'Here\'s your fact: ';
-const HELP_MESSAGE = 'You can say tell me a meme fact, or, you can say exit... What can I help you with?';
+const HELP_MESSAGE = 'You can say tell me a psychology fact, or, you can say exit... What can I help you with?';
 const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
 
