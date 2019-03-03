@@ -100,7 +100,11 @@ const data = [
   'People who try to keep everyone happy often end up feeling the loneliest.',
   'When you hold the hand of a loved one, you feel pain less keenly and worry less.',
   'Women who have mostly male friends stay in a good mood more often.',
-  'People who speak two languages may unconsciously shift their personalities when they switch from one language to another.'
+  'People who speak two languages may unconsciously shift their personalities when they switch from one language to another.',
+  'Being alone for a long time is as bad for your health as smoking 15 cigarettes a day',
+  'Travel boosts brain health and also decreases a person’s risk of heart attack and depression.',
+  'Marrying your best friend eliminates the risk of divorce by over 70%, and this marriage is more likely to last a lifetime.',
+  'People look more attractive when they speak about the things they are really interested in.'
 ];
 
 const skillBuilder = Alexa.SkillBuilders.standard();
