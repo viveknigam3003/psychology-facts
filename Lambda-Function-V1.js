@@ -41,6 +41,8 @@ const data = [
   'Travel boosts brain health and also decreases a person’s risk of heart attack and depression.',
   'Marrying your best friend eliminates the risk of divorce by over 70%, and this marriage is more likely to last a lifetime.',
   'People look more attractive when they speak about the things they are really interested in.',
+  'Psychology is the brain trying to comprehend itself.',
+  'The average four year-old child asks over four hundred questions a day.'
 ];
 
 //=========================================================================================================================================
